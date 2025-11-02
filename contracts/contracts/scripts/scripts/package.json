@@ -1,0 +1,36 @@
+{
+  "name": "crypto-inheritance-solution",
+  "version": "1.0.0",
+  "description": "A comprehensive solution for crypto and NFT inheritance planning",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "deploy": "npx hardhat run scripts/deploy.js",
+    "inventory": "node scripts/create-inventory.js",
+    "node": "npx hardhat node"
+  },
+  "keywords": [
+    "crypto",
+    "inheritance",
+    "blockchain",
+    "smart-contracts",
+    "web3",
+    "nft",
+    "bitcoin",
+    "estate-planning"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "chai": "^4.3.10",
+    "ethereum-waffle": "^4.0.10",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
