@@ -35,6 +35,14 @@ The **Digital Inheritance Crisis** is real. Over $10B in crypto assets are at ri
 - Node.js 16+
 - Hardhat or Truffle
 - MetaMask Wallet
+- ## 🧪 Testing
+
+```bash
+# Run tests
+npx hardhat test
+
+# Run coverage
+npx hardhat coverage
 
 ### Installation
 ```bash
