@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "lastUpdated": "2024-01-01T00:00:00.000Z",
+    "version": "1.0",
+    "owner": "YOUR_NAME_HERE",
+    "instructions": "FILL_THIS_WITH_YOUR_ACTUAL_ASSET_DETAILS"
+  },
+  "cryptocurrencies": [
+    {
+      "asset": "Bitcoin (BTC)",
+      "amount": "0.00000000",
+      "walletType": "Hardware/Ledger/MetaMask",
+      "walletAddress": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+      "location": "Safe Deposit Box",
+      "backupLocation": "Home Safe",
+      "recoveryInstructions": "Use seed phrase stored in steel capsule"
+    }
+  ],
+  "nfts": [
+    {
+      "collection": "CryptoPunks",
+      "tokenId": "1234",
+      "name": "CryptoPunk #1234",
+      "marketplace": "OpenSea",
+      "storage": "MetaMask",
+      "estimatedValue": "10.5 ETH",
+      "specialInstructions": "This is a rare alien punk - do not sell below 15 ETH"
+    }
+  ]
+}
